@@ -1,2 +1,1 @@
-# memory-pad
-Created with CodeSandbox
+MemoryPad-app
